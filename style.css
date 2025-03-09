@@ -1,0 +1,90 @@
+* {
+    margin: 0px;
+}
+
+html {
+    background-color: bisque;
+}
+
+body {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+table {
+    border-collapse: collapse;
+    width: calc(100% - 40px);
+    height: calc(100% - 40px);
+}
+
+td {
+    border: 1px solid #000;
+    border-width: 4px;
+}
+
+.container {
+    width: 100vmin;
+    height: 100vmin;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: bisque;
+}
+
+.w35 {
+    width: 35%;
+}
+
+.w24 {
+    width: 24%;
+}
+
+.w12 {
+    width: 12%;
+}
+
+.w6 {
+    width: 6%;
+}
+
+.h40 {
+    height: 40%;
+}
+
+.h24 {
+    height: 24%;
+}
+
+.h12 {
+    height: 12%;
+}
+
+.h10 {
+    height: 10%;
+}
+
+.h6 {
+    height: 6%;
+}
+
+.red {
+    background-color: rgb(221, 76, 76);
+}
+
+.white {
+    background-color: white;
+}
+
+.yellow {
+    background-color: rgb(240, 240, 108);
+}
+
+.black {
+    background-color: rgb(31, 31, 31);
+}
+
+.blue {
+    background-color: rgb(28, 59, 116);
+}
